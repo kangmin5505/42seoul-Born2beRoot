@@ -138,3 +138,14 @@ This is an example of what kind of output you will get:
 ![image](https://user-images.githubusercontent.com/74703501/145705841-983b1be7-7b12-4edc-9fd1-525043dbfdab.png)\
 \
 ![image](https://user-images.githubusercontent.com/74703501/145705853-daeb105b-6bd9-4437-ae13-b8cc3e56b3ba.png)
+
+## 해결과정
+1. [가상환경 구축(bonus 버전)](https://velog.io/@appti/born2beroot-Virtualbox-Debian-%EC%84%A4%EC%B9%98)
+2. [sudo 및 sudoers](https://parkseunghan.notion.site/sudo-790c926b0f5644738318549e9f176a70)
+3. [AppArmor 설정](https://parkseunghan.notion.site/Vim-Apparmor-22792a48e9d2490680a7ddcb25a79ded)
+4. [UFW 설정](https://parkseunghan.notion.site/UFW-58c8e4a34bb64a75b453ee9fefedd3be)
+5. [Port 및 SSH 설정](https://parkseunghan.notion.site/SSH-SSH-bc716b8f40604d45a013ad4f169984c2)
+6. [비밀번호 정책 설정](https://parkseunghan.notion.site/91f7d40e6a10470d97917677b214bab8)
+7. [monitoring.sh](https://infinitt.tistory.com/390)
+8. [WordPress](https://nostressdev.tistory.com/11)
+    - [php 설치](https://ksbgenius.github.io/wordpress/2020/08/15/wordpress-installation-part2-php-fpm-install-and-configure.html)
