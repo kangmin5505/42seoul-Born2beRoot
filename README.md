@@ -132,6 +132,7 @@ Below are 4 command examples for a centos_serv.vdi file:
 - Linux: sha1sum centos_serv.vdi
 - MacM1 : shasum Centos.utm/Images/disk-0.qcow2
 - MacOS : shasum centos_serv.vdi
+
 This is an example of what kind of output you will get:
 - 6e657c4619944be17df3c31faa030c25e43e40af\
 \
