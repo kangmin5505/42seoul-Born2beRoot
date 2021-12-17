@@ -150,3 +150,19 @@ This is an example of what kind of output you will get:
 7. [monitoring.sh](https://infinitt.tistory.com/390)
 8. [WordPress](https://nostressdev.tistory.com/11)
     - [php 설치](https://ksbgenius.github.io/wordpress/2020/08/15/wordpress-installation-part2-php-fpm-install-and-configure.html)
+
+## What I Learned
+- 가상환경 구축
+- LVM
+- 보안 설정
+- 유저, 그룹 관리
+- 쉘스크립트
+- wordpress website 연결
+> Born2beroot는 어려웠지만, 많은 것을 배울 수 있는 과제였다.
+> 왜냐하면 지금까지 들어보지 못 한 가상환경 구축이나 LVM, apparmor 등등의 개념이 나와서 공부해야 될 것이 많았기 때문이다.
+> 그렇지만, 하나씩 개념을 익히다보니 전체적인 흐름이 그려졌고, 결국 이 과제를 끝을 냈다.
+> 공부한 것 중에 가장 기억에 남는 내용은 LVM이다.
+> LVM은 Logical Volume Manager의 약자로, 하드웨어를 유동적으로 사용할 수 있도록 도와준다.
+> LVM이 가장 기억에 남는 이유는 물리적인 실체를 논리적으로 변경하여 원하는 크기로 사용하는 방법이 정말 획기적이라고 생각했기 때문이다.
+> 이 과제를 하며 인터넷 검색으로는 전반적인 개념이 제대로 잡히지 않아서 '이것이 우분투 리눅스다' 라는 책을 사서 공부했는데, 정말 도움이 많이 되었다.
+> 다음 과제부터도 인터넷뿐만 아니라 여러가지 개념들을 이해하기 쉽게 설명한 책도 같이 보며 공부해야겠다.
